@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Uporządkowany słownik dla Pythona ignorujący wielkość li
 Name:		python-nocasedict
 # keep 1.x here for python2 support
 Version:	1.1.2
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nocasedict/
