@@ -6,7 +6,7 @@
 
 Summary:	A case-insensitive ordered dictionary for Python
 Summary(pl.UTF-8):	Uporządkowany słownik dla Pythona ignorujący wielkość liter
-Name:		python-nocasedict
+Name:		python3-nocasedict
 # keep 1.x here for python2 support
 Version:	1.1.2
 Release:	3
